@@ -1,45 +1,29 @@
-# science-blog-slv
+# Blog de Ciencia y Neurociencia - Dr. Juan Moisés de la Serna
 
+Este repositorio contiene un blog profesional dedicado a la difusión de hallazgos científicos en el campo de la neurociencia y la psicología, con un enfoque especial en las secuelas del COVID-19 y los avances en el estudio de la conducta humana.
 
-## How to Cite
+## Autor
+**Dr. Juan Moisés de la Serna**
+Doctor en Psicología, Máster en Neurociencias y Biología del Comportamiento. Investigador y docente experto en salud mental y neurobiología.
 
-If you use this repository in your research, please cite:
+## Contenido del Repositorio
 
-> de la Serna, J. M. (2026). *Science Blog Slv*. Universidad Internacional de La Rioja (UNIR).
-> https://github.com/juanmoisesd/science-blog-slv 
+- `index.html`: Página principal con biografía y navegación.
+- `css/style.css`: Estilos profesionales diseñados para una lectura académica cómoda.
+- `posts/`: Artículos de gran extensión (+10.000 palabras cada uno) sobre temas críticos de la neurociencia actual.
+  - `covid-neuropsicologia.html`: Análisis exhaustivo del impacto del SARS-CoV-2 en el cerebro.
+  - `neurociencia-conducta.html`: Revisión de los avances en el estudio biológico del comportamiento.
 
-See `CITATION.cff` for formatted references.
+## Cómo citar este trabajo
 
-## Overview
-This repository contains data and resources related to **science blog slv**. It is part of an open science initiative to share research findings and datasets with the global scientific community.
+Si utilizas este contenido en tu investigación o publicaciones, por favor utiliza la siguiente referencia:
 
-## Research Context
-The project addresses key questions in the field of neuroscience and social sciences, focusing on providing accessible data for further analysis and validation.
+> de la Serna, J. M. (2026). *Ciencia y Neurociencia Blog*. Universidad Internacional de La Rioja (UNIR).
+> https://juanmoisesd.github.io/science-blog-slv
 
-## Repository Structure
-- `data/`: Contains the datasets used in this research.
-- `src/`: Source code for data processing and analysis.
-- `results/`: Output files, figures, and metrics.
+## Estructura
+- `data/`: (Opcional) Datos de soporte para las investigaciones mencionadas.
+- `assets/`: Imágenes y recursos multimedia.
 
-## Usage
-To use the resources in this repository, clone the project and ensure you have the necessary dependencies installed. Refer to the specific documentation in each folder for more details.
-
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Overview
-This repository contains data and resources related to **science blog slv**. It is part of an open science initiative to share research findings and datasets with the global scientific community.
-
-## Research Context
-The project addresses key questions in the field of neuroscience and social sciences, focusing on providing accessible data for further analysis and validation.
-
-## Repository Structure
-- `data/`: Contains the datasets used in this research.
-- `src/`: Source code for data processing and analysis.
-- `results/`: Output files, figures, and metrics.
-
-## Usage
-To use the resources in this repository, clone the project and ensure you have the necessary dependencies installed. Refer to the specific documentation in each folder for more details.
-
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+## Licencia
+Este proyecto está bajo la Licencia MIT. Ver archivo `LICENSE` para más detalles.
